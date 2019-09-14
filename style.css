@@ -297,7 +297,7 @@ section.formulario {
 
 .form-style-2 .textarea-field {
     height: 200px;
-    width: 80%;
+    width: 100%;
 }
 
 .form-style-2 input[type=submit],
