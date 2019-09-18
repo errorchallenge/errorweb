@@ -20,7 +20,9 @@ main {
     height: 100vh;
     overflow: hidden;
 }
-
+section.regras ul li{
+    margin-bottom: 15px;
+}
 .nav {
     position: fixed;
     top: 25px;
